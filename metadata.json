@@ -1,0 +1,8 @@
+{
+  "name": "TARUBASKIBAS",
+  "description": "AI-powered inventory manager featuring dual-shot scanning, quick single-shot analysis, and manual entry with voice support. Keeps track of product expiry dates with a clean, mint-green aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
